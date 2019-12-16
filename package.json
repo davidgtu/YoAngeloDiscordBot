@@ -12,9 +12,5 @@
     "start": "node index.js"
   },
   "author": "",
-  "description": "",
-  "engines": {
-    "node": ">= 6.9.4",
-    "npm": ">= 4.4.0"
-  }
+  "description": ""
 }
