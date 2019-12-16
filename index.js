@@ -24,7 +24,7 @@ client.on('message', (msg) => {
             resetYoCount();
         } else {
             msg.channel.send({
-                files: ['./image/yoangelo.jpg']
+                files: ['./image/yoangelo.gif']
             });
         }
 
