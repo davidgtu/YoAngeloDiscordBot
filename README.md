@@ -1,4 +1,4 @@
-# 🗿 Yo, Angelo 🗿
+# 🗿 Yo, Angelo. 🗿
 
 ## 🗿 What is this? 🗿
 JosukeBot is a discord bot that will react when messages have a 🗿 emoji and will reply with: 
