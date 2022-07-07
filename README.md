@@ -14,4 +14,5 @@ Made with
 - Discord.js
 - Deployed with Heroku
 
-
+## 🗿 Why? 🗿
+idk lol
